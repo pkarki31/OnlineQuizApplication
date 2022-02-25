@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "What does the abbreviation HTML stand for?",
+            "options": [{
+                    "text": "Hyper Text Markup Language",
+                    "correct": true
+                },
+                {
+                    "text": "High Text Markup Language"
+                },
+                {
+                    "text": "Hyper Text Markdown Language"
+                },
+                {
+                    "text": "None of the above "
+                }
+            ],
+            "explanation": "HTML stands for HyperText Markup Language."
+        },
+        {
+            "questionText": "How many sizes of headers are available in HTML by default?",
+            "options": [{
+                    "text": "1"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "6",
+                    "correct": true
+                }
+            ],
+            "explanation": "6 headers are available in HTML by default ranging from h1 to h6."
+        },
+        {
+            "questionText": "What is the smallest header in HTML by default?",
+            "options": [{
+                    "text": "h1"
+                },
+                {
+                    "text": "h6",
+                    "correct": true
+                },
+                {
+                    "text": "h2"
+                },
+                {
+                    "text": "h3"
+                }
+            ],
+            "explanation": "h6 is the smallest header in HTML by default."
+        },
+        {
+            "questionText": "What are the types of lists available in HTML?",
+            "options": [{
+                    "text": "Name Unnamed Lists"
+                },
+                {
+                    "text": "Ordered, Unordered Lists",
+                    "correct": true
+                },
+                {
+                    "text": "Bullet Numbered List"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "The lists available in HTML are Ordered and Unordered List."
+        },
+        {
+            "questionText": "How to create an ordered list in HTML?",
+            "options": [{
+                    "text": "<ol>",
+                    "correct": true
+                },
+                {
+                    "text": "<ul>"
+                },
+                {
+                    "text": "<li>"
+                },
+                {
+                    "text": "<b>"
+                }
+            ],
+            "explanation": "An ordered list is created in HTML by using the <ol> tag."
+        },
+        {
+            "questionText": "HTML files are saved by default with the extension?",
+            "options": [{
+                    "text": ".ht"
+                },
+                {
+                    "text": ".h"
+                },
+                {
+                    "text": ".js"
+                },
+                {
+                    "text": ".html",
+                    "correct": true
+                }
+            ],
+            "explanation": "HTML files are saved by the .html or .htm extension."
+        },
+        {
+            "questionText": "We enclose HTML tags within?",
+            "options": [{
+                    "text": "{ }"
+                },
+                {
+                    "text": "< >",
+                    "correct": true
+                },
+                {
+                    "text": "! !"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "HTML tags are enclosed within < > according to syntax."
+        },
+        {
+            "questionText": "What is the effect of the <b> tag?",
+            "options": [{
+                    "text": "It converts the text within it to bold font.",
+                    "correct": true
+                },
+                {
+                    "text": "It is used to write black-colored font."
+                },
+                {
+                    "text": "It is used to change the font size."
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "<b> is used to convert the text within it to bold font."
+        },
+        {
+            "questionText": "Which of the following is correct about HTML?",
+            "options": [{
+                    "text": "HTML uses tags defined within the language.",
+                    "correct": true
+                },
+                {
+                    "text": "HTML uses User Defined Tags."
+                },
+                {
+                    "text": "Both A and B"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ],
+            "explanation": "HTML can only use the tags defined within the language."
+        },
+        {
+            "questionText": "How to display preformatted text in HTML?",
+            "options": [{
+                    "text": "<pre>",
+                    "correct": true
+                },
+                {
+                    "text": "<p>"
+                },
+                {
+                    "text": "<hr>"
+                },
+                {
+                    "text": "<h2>"
+                }
+            ],
+            "explanation": "<pre> tags is used to handle preformatted text in HTML."
+        }
+    ]
+}
